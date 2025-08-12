@@ -1,0 +1,6 @@
+# Prevent secrets from being committed
+.env
+*.env
+*.tfstate
+*.tfstate.backup
+.terraform/
