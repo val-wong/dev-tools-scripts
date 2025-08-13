@@ -1,4 +1,3 @@
-README.md (for dev-tools-scripts)
 Dev Tools Scripts
 
 A small collection of shell scripts to speed up day-to-day developer workflows with Git, Okta SAML/SCIM lookups, Terraform runs, and local FastAPI testing.
